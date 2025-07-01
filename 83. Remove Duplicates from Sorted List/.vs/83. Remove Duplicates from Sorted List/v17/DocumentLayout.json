@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Active Subject\\DSA\\LeetCode_Problems\\LinkedList\\83. Remove Duplicates from Sorted List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5350F581-8190-4897-955E-C8FE31742D9F}|83. Remove Duplicates from Sorted List.vcxproj|D:\\Active Subject\\DSA\\LeetCode_Problems\\LinkedList\\83. Remove Duplicates from Sorted List\\83. Remove Duplicates from Sorted List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5350F581-8190-4897-955E-C8FE31742D9F}|83. Remove Duplicates from Sorted List.vcxproj|solutionrelative:83. Remove Duplicates from Sorted List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "83. Remove Duplicates from Sorted List.cpp",
+              "DocumentMoniker": "D:\\Active Subject\\DSA\\LeetCode_Problems\\LinkedList\\83. Remove Duplicates from Sorted List\\83. Remove Duplicates from Sorted List.cpp",
+              "RelativeDocumentMoniker": "83. Remove Duplicates from Sorted List.cpp",
+              "ToolTip": "D:\\Active Subject\\DSA\\LeetCode_Problems\\LinkedList\\83. Remove Duplicates from Sorted List\\83. Remove Duplicates from Sorted List.cpp",
+              "RelativeToolTip": "83. Remove Duplicates from Sorted List.cpp",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAmwFYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-12T02:08:24.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

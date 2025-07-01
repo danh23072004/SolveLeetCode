@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Active Subject\\LeetCode_Problems\\Problems_Solved\\191. Number of 1 Bits\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ACB737-945C-4D32-B1CA-BAC9CBD3A3D5}|191. Number of 1 Bits\\191. Number of 1 Bits.vcxproj|D:\\Active Subject\\LeetCode_Problems\\Problems_Solved\\191. Number of 1 Bits\\191. Number of 1 Bits\\191. Number of 1 Bits.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8ACB737-945C-4D32-B1CA-BAC9CBD3A3D5}|191. Number of 1 Bits\\191. Number of 1 Bits.vcxproj|solutionrelative:191. Number of 1 Bits\\191. Number of 1 Bits.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "191. Number of 1 Bits.cpp",
+              "DocumentMoniker": "D:\\Active Subject\\LeetCode_Problems\\Problems_Solved\\191. Number of 1 Bits\\191. Number of 1 Bits\\191. Number of 1 Bits.cpp",
+              "RelativeDocumentMoniker": "191. Number of 1 Bits\\191. Number of 1 Bits.cpp",
+              "ToolTip": "D:\\Active Subject\\LeetCode_Problems\\Problems_Solved\\191. Number of 1 Bits\\191. Number of 1 Bits\\191. Number of 1 Bits.cpp",
+              "RelativeToolTip": "191. Number of 1 Bits\\191. Number of 1 Bits.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-17T02:48:20.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

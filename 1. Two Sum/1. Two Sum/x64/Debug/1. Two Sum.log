@@ -1,0 +1,14 @@
+﻿  1. Two Sum.cpp
+D:\Active Subject\DSA\LeetCode_Problems\Uncategorized\1. Two Sum\1. Two Sum.cpp(17,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Active Subject\DSA\LeetCode_Problems\Uncategorized\1. Two Sum\1. Two Sum.cpp(24,35): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+D:\Active Subject\DSA\LeetCode_Problems\Uncategorized\1. Two Sum\1. Two Sum.cpp(24,35): warning C4267:         with
+D:\Active Subject\DSA\LeetCode_Problems\Uncategorized\1. Two Sum\1. Two Sum.cpp(24,35): warning C4267:         [
+D:\Active Subject\DSA\LeetCode_Problems\Uncategorized\1. Two Sum\1. Two Sum.cpp(24,35): warning C4267:             _Ty=int
+D:\Active Subject\DSA\LeetCode_Problems\Uncategorized\1. Two Sum\1. Two Sum.cpp(24,35): warning C4267:         ]
+D:\Active Subject\DSA\LeetCode_Problems\Uncategorized\1. Two Sum\1. Two Sum.cpp(25,35): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+D:\Active Subject\DSA\LeetCode_Problems\Uncategorized\1. Two Sum\1. Two Sum.cpp(25,35): warning C4267:         with
+D:\Active Subject\DSA\LeetCode_Problems\Uncategorized\1. Two Sum\1. Two Sum.cpp(25,35): warning C4267:         [
+D:\Active Subject\DSA\LeetCode_Problems\Uncategorized\1. Two Sum\1. Two Sum.cpp(25,35): warning C4267:             _Ty=int
+D:\Active Subject\DSA\LeetCode_Problems\Uncategorized\1. Two Sum\1. Two Sum.cpp(25,35): warning C4267:         ]
+D:\Active Subject\DSA\LeetCode_Problems\Uncategorized\1. Two Sum\1. Two Sum.cpp(36,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  1. Two Sum.vcxproj -> D:\Active Subject\DSA\LeetCode_Problems\Uncategorized\1. Two Sum\x64\Debug\1. Two Sum.exe

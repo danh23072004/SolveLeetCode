@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Active Subject\\LeetCode_Problems\\Problems_Solved\\860. Lemonade Change\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E651ABE-3EBE-472F-98E7-88BB72AC1990}|860. Lemonade Change\\860. Lemonade Change.vcxproj|D:\\Active Subject\\LeetCode_Problems\\Problems_Solved\\860. Lemonade Change\\860. Lemonade Change\\860. Lemonade Change.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E651ABE-3EBE-472F-98E7-88BB72AC1990}|860. Lemonade Change\\860. Lemonade Change.vcxproj|solutionrelative:860. Lemonade Change\\860. Lemonade Change.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "860. Lemonade Change.cpp",
+              "DocumentMoniker": "D:\\Active Subject\\LeetCode_Problems\\Problems_Solved\\860. Lemonade Change\\860. Lemonade Change\\860. Lemonade Change.cpp",
+              "RelativeDocumentMoniker": "860. Lemonade Change\\860. Lemonade Change.cpp",
+              "ToolTip": "D:\\Active Subject\\LeetCode_Problems\\Problems_Solved\\860. Lemonade Change\\860. Lemonade Change\\860. Lemonade Change.cpp",
+              "RelativeToolTip": "860. Lemonade Change\\860. Lemonade Change.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-17T10:41:26.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

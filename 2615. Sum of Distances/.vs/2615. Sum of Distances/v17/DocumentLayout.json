@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LeetCode_Problems\\Problems_Solved\\2615. Sum of Distances\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B43A0F7-D180-42AE-9EAA-B8F9A6D9BDE5}|2615. Sum of Distances.vcxproj|D:\\LeetCode_Problems\\Problems_Solved\\2615. Sum of Distances\\2615. Sum of Distances.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B43A0F7-D180-42AE-9EAA-B8F9A6D9BDE5}|2615. Sum of Distances.vcxproj|solutionrelative:2615. Sum of Distances.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2615. Sum of Distances.cpp",
+              "DocumentMoniker": "D:\\LeetCode_Problems\\Problems_Solved\\2615. Sum of Distances\\2615. Sum of Distances.cpp",
+              "RelativeDocumentMoniker": "2615. Sum of Distances.cpp",
+              "ToolTip": "D:\\LeetCode_Problems\\Problems_Solved\\2615. Sum of Distances\\2615. Sum of Distances.cpp",
+              "RelativeToolTip": "2615. Sum of Distances.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-07T09:36:17.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

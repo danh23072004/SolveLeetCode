@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Active Subject\\LeetCode_Problems\\Problems_Solved\\455. Assign Cookies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E431B44-A4FD-4970-BB44-8F59731AD30F}|455. Assign Cookies\\455. Assign Cookies.vcxproj|D:\\Active Subject\\LeetCode_Problems\\Problems_Solved\\455. Assign Cookies\\455. Assign Cookies\\455. Assign Cookies.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E431B44-A4FD-4970-BB44-8F59731AD30F}|455. Assign Cookies\\455. Assign Cookies.vcxproj|solutionrelative:455. Assign Cookies\\455. Assign Cookies.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "455. Assign Cookies.cpp",
+              "DocumentMoniker": "D:\\Active Subject\\LeetCode_Problems\\Problems_Solved\\455. Assign Cookies\\455. Assign Cookies\\455. Assign Cookies.cpp",
+              "RelativeDocumentMoniker": "455. Assign Cookies\\455. Assign Cookies.cpp",
+              "ToolTip": "D:\\Active Subject\\LeetCode_Problems\\Problems_Solved\\455. Assign Cookies\\455. Assign Cookies\\455. Assign Cookies.cpp",
+              "RelativeToolTip": "455. Assign Cookies\\455. Assign Cookies.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-17T10:25:39.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

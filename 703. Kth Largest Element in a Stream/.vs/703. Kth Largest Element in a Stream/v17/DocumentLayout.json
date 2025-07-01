@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Active Subject\\DSA\\LeetCode_Problems\\703. Kth Largest Element in a Stream\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED50B3CE-503E-4828-BD87-90E5CF3F1BCA}|703. Kth Largest Element in a Stream.vcxproj|D:\\Active Subject\\DSA\\LeetCode_Problems\\703. Kth Largest Element in a Stream\\703. Kth Largest Element in a Stream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED50B3CE-503E-4828-BD87-90E5CF3F1BCA}|703. Kth Largest Element in a Stream.vcxproj|solutionrelative:703. Kth Largest Element in a Stream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "703. Kth Largest Element in a Stream.cpp",
+              "DocumentMoniker": "D:\\Active Subject\\DSA\\LeetCode_Problems\\703. Kth Largest Element in a Stream\\703. Kth Largest Element in a Stream.cpp",
+              "RelativeDocumentMoniker": "703. Kth Largest Element in a Stream.cpp",
+              "ToolTip": "D:\\Active Subject\\DSA\\LeetCode_Problems\\703. Kth Largest Element in a Stream\\703. Kth Largest Element in a Stream.cpp",
+              "RelativeToolTip": "703. Kth Largest Element in a Stream.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T00:23:34.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

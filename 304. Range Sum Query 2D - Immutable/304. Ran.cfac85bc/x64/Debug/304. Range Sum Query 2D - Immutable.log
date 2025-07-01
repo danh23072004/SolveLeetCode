@@ -1,0 +1,4 @@
+﻿  304. Range Sum Query 2D - Immutable.cpp
+D:\LeetCode_Problems\Problems_Solved\304. Range Sum Query 2D - Immutable\304. Range Sum Query 2D - Immutable.cpp(13,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\LeetCode_Problems\Problems_Solved\304. Range Sum Query 2D - Immutable\304. Range Sum Query 2D - Immutable.cpp(14,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  304. Range Sum Query 2D - Immutable.vcxproj -> D:\LeetCode_Problems\Problems_Solved\304. Range Sum Query 2D - Immutable\x64\Debug\304. Range Sum Query 2D - Immutable.exe
