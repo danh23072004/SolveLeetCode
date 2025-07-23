@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Active Subject\\LeetCode_Problems\\Problems_Solved\\594. Longest Harmonious Subsequence\\",
+  "WorkspaceRootPath": "D:\\Active Subject\\LeetCode_Problems\\SolveLeetCode\\594. Longest Harmonious Subsequence\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB2C4932-7EAC-4938-962A-7E9CE764E9C5}|594. Longest Harmonious Subsequence.vcxproj|D:\\Active Subject\\LeetCode_Problems\\Problems_Solved\\594. Longest Harmonious Subsequence\\594. Longest Harmonious Subsequence.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{AB2C4932-7EAC-4938-962A-7E9CE764E9C5}|594. Longest Harmonious Subsequence.vcxproj|D:\\Active Subject\\LeetCode_Problems\\SolveLeetCode\\594. Longest Harmonious Subsequence\\594. Longest Harmonious Subsequence.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AB2C4932-7EAC-4938-962A-7E9CE764E9C5}|594. Longest Harmonious Subsequence.vcxproj|solutionrelative:594. Longest Harmonious Subsequence.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "594. Longest Harmonious Subsequence.cpp",
-              "DocumentMoniker": "D:\\Active Subject\\LeetCode_Problems\\Problems_Solved\\594. Longest Harmonious Subsequence\\594. Longest Harmonious Subsequence.cpp",
+              "DocumentMoniker": "D:\\Active Subject\\LeetCode_Problems\\SolveLeetCode\\594. Longest Harmonious Subsequence\\594. Longest Harmonious Subsequence.cpp",
               "RelativeDocumentMoniker": "594. Longest Harmonious Subsequence.cpp",
-              "ToolTip": "D:\\Active Subject\\LeetCode_Problems\\Problems_Solved\\594. Longest Harmonious Subsequence\\594. Longest Harmonious Subsequence.cpp",
+              "ToolTip": "D:\\Active Subject\\LeetCode_Problems\\SolveLeetCode\\594. Longest Harmonious Subsequence\\594. Longest Harmonious Subsequence.cpp",
               "RelativeToolTip": "594. Longest Harmonious Subsequence.cpp",
-              "ViewState": "AgIAACkAAAAAAAAAAAAowEYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-01T00:30:54.982Z",
               "EditorCaption": ""

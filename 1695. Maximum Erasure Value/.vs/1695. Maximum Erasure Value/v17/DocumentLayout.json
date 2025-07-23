@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Active Subject\\LeetCode_Problems\\SolveLeetCode\\1695. Maximum Erasure Value\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C92C235-CB12-4DB8-AE19-E651C8BAAD91}|1695. Maximum Erasure Value.vcxproj|D:\\Active Subject\\LeetCode_Problems\\SolveLeetCode\\1695. Maximum Erasure Value\\1695. Maximum Erasure Value.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C92C235-CB12-4DB8-AE19-E651C8BAAD91}|1695. Maximum Erasure Value.vcxproj|solutionrelative:1695. Maximum Erasure Value.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1695. Maximum Erasure Value.cpp",
+              "DocumentMoniker": "D:\\Active Subject\\LeetCode_Problems\\SolveLeetCode\\1695. Maximum Erasure Value\\1695. Maximum Erasure Value.cpp",
+              "RelativeDocumentMoniker": "1695. Maximum Erasure Value.cpp",
+              "ToolTip": "D:\\Active Subject\\LeetCode_Problems\\SolveLeetCode\\1695. Maximum Erasure Value\\1695. Maximum Erasure Value.cpp",
+              "RelativeToolTip": "1695. Maximum Erasure Value.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T13:50:46.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
