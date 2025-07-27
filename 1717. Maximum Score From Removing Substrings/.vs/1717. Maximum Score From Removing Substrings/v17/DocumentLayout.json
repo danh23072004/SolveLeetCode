@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Active Subject\\LeetCode_Problems\\SolveLeetCode\\1717. Maximum Score From Removing Substrings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90EB7CDB-6016-4352-BABF-992872A38EE7}|1717. Maximum Score From Removing Substrings.vcxproj|D:\\Active Subject\\LeetCode_Problems\\SolveLeetCode\\1717. Maximum Score From Removing Substrings\\1717. Maximum Score From Removing Substrings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90EB7CDB-6016-4352-BABF-992872A38EE7}|1717. Maximum Score From Removing Substrings.vcxproj|solutionrelative:1717. Maximum Score From Removing Substrings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1717. Maximum Score From Removing Substrings.cpp",
+              "DocumentMoniker": "D:\\Active Subject\\LeetCode_Problems\\SolveLeetCode\\1717. Maximum Score From Removing Substrings\\1717. Maximum Score From Removing Substrings.cpp",
+              "RelativeDocumentMoniker": "1717. Maximum Score From Removing Substrings.cpp",
+              "ToolTip": "D:\\Active Subject\\LeetCode_Problems\\SolveLeetCode\\1717. Maximum Score From Removing Substrings\\1717. Maximum Score From Removing Substrings.cpp",
+              "RelativeToolTip": "1717. Maximum Score From Removing Substrings.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-23T14:37:12.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
