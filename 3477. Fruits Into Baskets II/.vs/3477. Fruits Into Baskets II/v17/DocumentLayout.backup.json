@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Active Subject\\LeetCode_Problems\\SolveLeetCode\\3477. Fruits Into Baskets II\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCE8F7D-79FF-4692-B54D-12A6BFD7DE3E}|3477. Fruits Into Baskets II.vcxproj|D:\\Active Subject\\LeetCode_Problems\\SolveLeetCode\\3477. Fruits Into Baskets II\\3477. Fruits Into Baskets II.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DCE8F7D-79FF-4692-B54D-12A6BFD7DE3E}|3477. Fruits Into Baskets II.vcxproj|solutionrelative:3477. Fruits Into Baskets II.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3477. Fruits Into Baskets II.cpp",
+              "DocumentMoniker": "D:\\Active Subject\\LeetCode_Problems\\SolveLeetCode\\3477. Fruits Into Baskets II\\3477. Fruits Into Baskets II.cpp",
+              "RelativeDocumentMoniker": "3477. Fruits Into Baskets II.cpp",
+              "ToolTip": "D:\\Active Subject\\LeetCode_Problems\\SolveLeetCode\\3477. Fruits Into Baskets II\\3477. Fruits Into Baskets II.cpp",
+              "RelativeToolTip": "3477. Fruits Into Baskets II.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-05T03:12:38.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
